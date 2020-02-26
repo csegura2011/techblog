@@ -9,5 +9,9 @@ Actualizar el Sistema Operativo
 $ sudo apt-get update && sudo apt-get -y upgrade 
 ```
 
+## Instalando VIM
+
 [Ubuntu 18 - Instalando VIM](https://github.com/csegura2011/techblog/blob/master/ubuntu18-instalando-vim.md)
+
+
 
